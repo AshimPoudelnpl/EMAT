@@ -46,7 +46,7 @@ const Index = () => {
             <div className="flex items-center justify-center space-x-3 mb-6">
               <Vote className="h-16 w-16 text-primary" />
               <h1 className="text-5xl font-bold bg-gradient-to-r from-primary to-primary-light bg-clip-text text-transparent">
-                E-MAT
+                Election Management and Administration Tool
               </h1>
             </div>
             

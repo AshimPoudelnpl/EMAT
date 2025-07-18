@@ -151,7 +151,7 @@ const Index = () => {
               Ready to Start Your First Election?
             </h2>
             <p className="text-lg text-muted-foreground mb-8">
-              Join thousands of organizations using Election Echo Network for their democratic processes.
+              Join thousands of organizations using Election Management and Administration Tool for their democratic processes.
             </p>
             
             {!isAuthenticated && (

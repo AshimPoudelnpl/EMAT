@@ -22,7 +22,7 @@ export default function SignupPage() {
           <div className="flex items-center space-x-3">
             <Vote className="h-16 w-16 text-primary" />
             <h1 className="text-4xl font-bold bg-gradient-to-r from-primary to-primary-light bg-clip-text text-transparent">
-              Election Echo Network
+              Election Management and Administration Tool
             </h1>
           </div>
           <p className="text-xl text-muted-foreground text-center max-w-md">
